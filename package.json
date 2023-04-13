@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ndufour48",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndufour48/ez-notez.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "bugs": {
+    "url": "https://github.com/ndufour48/ez-notez/issues"
+  },
+  "homepage": "https://github.com/ndufour48/ez-notez#readme"
+}
